@@ -22,3 +22,11 @@ Yep it did work, the story moved from the started to the finished state, so now 
 [Delivers #142863541]
 
 Will it work?
+
+Yes it did work. The pivotal interface now says "Accept / Reject".
+
+The documentation for this integration is here, by the way: https://www.pivotaltracker.com/help/articles/githubs_service_hook_for_tracker/
+
+Let's just add a comment via a commit to the pivotal story by mentioning it in square brackets like this:
+
+[#142863541]
