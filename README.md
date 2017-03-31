@@ -16,3 +16,9 @@ Okay the first time I committed, I forgot to put square braces around my story r
 [Fixes #142863541]
 
 Let's see if that worked.
+
+Yep it did work, the story moved from the started to the finished state, so now lets deliver it by adding to the next commit log:
+
+[Delivers #142863541]
+
+Will it work?
