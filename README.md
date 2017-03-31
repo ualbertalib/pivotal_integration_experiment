@@ -1,5 +1,7 @@
 # pivotal_integration_experiment
-A usability test for using pivotal tracker to schedule work
+A usability test for using pivotal tracker to schedule work, related to this issue in the Avalon issue tracker:
+
+https://github.com/ualbertalib/avalon/issues/116
 
 The work flow appears to be:
 * Put work into pivotal and prioritize backlog there
