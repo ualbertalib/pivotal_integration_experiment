@@ -1,4 +1,7 @@
 # pivotal_integration_experiment
+
+Note that this README.md file is primarily being abused to test the github --> pivotal integration. For some real notes, please check out the wiki for this project.
+
 A usability test for using pivotal tracker to schedule work, related to this issue in the Avalon issue tracker:
 
 https://github.com/ualbertalib/avalon/issues/116
